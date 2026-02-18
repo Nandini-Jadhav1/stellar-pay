@@ -1,3 +1,5 @@
+<<<<<<< HEAD (Accept current change
+)
 # 🌟 Stellar Pay - Simple Payment dApp
 
 A decentralized payment application built on the Stellar testnet that allows users to connect their Freighter wallet and send XLM transactions.
@@ -62,3 +64,7 @@ npm start
 - Stellar SDK
 - Freighter API
 - Stellar Testnet (Horizon)
+=======
+# stellar-pay
+A simple Stellar testnet payment dApp built with React. Connect Freighter wallet, view XLM balance, and send XLM transactions.
+>>>>>>> 2251d7dff17a0495a2f6bba5092896b3a88d8807
